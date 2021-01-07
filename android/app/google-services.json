@@ -1,0 +1,32 @@
+{
+    "project_info": {
+        "project_number": "507607533875",
+        "firebase_url": "https://musicizer-832bd.firebaseio.com/",
+        "project_id": "musicizer-832bd",
+        "storage_bucket": "musicizer-832bd.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:507607533875:android:ee0a02ea00439ab1eb5646",
+            "android_client_info": {
+                "package_name": "com.app.musicizer"
+            }
+        },
+        "oauth_client": [{
+            "client_id": "507607533875-b7rr6hcggvc4tcluor4nq0thukkhqpkv.apps.googleusercontent.com",
+            "client_type": 3
+        }],
+        "api_key": [{
+            "current_key": "AIzaSyCh64mhDLbYLqsNem6XAQvSzJjaeygsxPk"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "507607533875-b7rr6hcggvc4tcluor4nq0thukkhqpkv.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
